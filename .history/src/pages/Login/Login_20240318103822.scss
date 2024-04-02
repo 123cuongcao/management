@@ -1,0 +1,15 @@
+
+.divider {
+	&:after {
+		content: "";
+		flex: 1;
+		height: 1px;
+		background: #eee;
+	}
+	&:before {
+		content: "";
+		flex: 1;
+		height: 1px;
+		background: #eee;
+	}
+}

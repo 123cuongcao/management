@@ -1,0 +1,104 @@
+import * as React from "react";
+
+function SideBar() {
+  return (
+    <aside
+    id="logo-sidebar"
+    className="fixed top-0 left-0 z-10 w-64 h-screen pt-20 transition-transform -translate-x-full bg-white border-r border-gray-200 sm:translate-x-0 dark:bg-gray-800 dark:border-gray-700"
+    aria-label="Sidebar"
+  >
+    <div className="h-full px-3 pb-4 overflow-y-auto bg-white dark:bg-gray-800">
+      <ul className="space-y-2 font-medium">
+<li>
+<svg
+                  className="w-6 h-6"
+                  aria-hidden="true"
+                  fill="currentColor"
+                  viewBox="0 0 20 20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    clipRule="evenodd"
+                    fillRule="evenodd"
+                    d="M2 4.75A.75.75 0 012.75 4h14.5a.75.75 0 010 1.5H2.75A.75.75 0 012 4.75zm0 10.5a.75.75 0 01.75-.75h7.5a.75.75 0 010 1.5h-7.5a.75.75 0 01-.75-.75zM2 10a.75.75 0 01.75-.75h14.5a.75.75 0 010 1.5H2.75A.75.75 0 012 10z"
+                  />
+                </svg>
+</li>
+
+        <li>
+          <a
+            href="#"
+            className="flex items-center p-2 text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group"
+          >
+            <div className="flex gap-2.5 justify-center  py-2 text-base leading-7 text-black">
+              <img
+                loading="lazy"
+                src="https://cdn.builder.io/api/v1/image/assets/TEMP/509e127c71df7844469f6fce39664398dc14031319d76f52ddc29cce579b46bd?apiKey=a365ccf4d9914ba4a3de4c73152edf03&"
+                alt=""
+                className="shrink-0 my-auto w-6 aspect-square"
+              />
+              <div className="flex-auto">Quản lý lớp học</div>
+            </div>
+          </a>
+        </li>
+
+        <li>
+          <a
+            href="#"
+            className="flex items-center p-2 text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group"
+          >
+            <div className="flex gap-2.5 justify-center  py-2 text-base leading-7 text-black">
+              <img
+                loading="lazy"
+                src="https://cdn.builder.io/api/v1/image/assets/TEMP/509e127c71df7844469f6fce39664398dc14031319d76f52ddc29cce579b46bd?apiKey=a365ccf4d9914ba4a3de4c73152edf03&"
+                alt=""
+                className="shrink-0 my-auto w-6 aspect-square"
+              />
+              <div className="flex-auto">Quản lý nhân viên</div>
+            </div>
+          </a>
+        </li>
+
+        <li>
+          <a
+            href="#"
+            className="flex items-center p-2 text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group"
+          >
+            <div className="flex gap-2.5 justify-center  py-2 text-base leading-7 text-black">
+              <img
+                loading="lazy"
+                src="https://cdn.builder.io/api/v1/image/assets/TEMP/4300d6e76d88cb5aa570f1b29e97efd9d320e923e09a2bfc7f8f52ed735557b2?apiKey=a365ccf4d9914ba4a3de4c73152edf03&3&"
+                alt=""
+                className="shrink-0 my-auto w-6 aspect-square"
+              />
+              <div className="flex-auto">Quản lý sinh viên</div>
+            </div>
+          </a>
+        </li>
+
+        <li>
+          <a
+            href="#"
+            className="flex items-center p-2 text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group"
+          >
+            <div className="flex gap-2.5 justify-center  py-2 text-base leading-7 text-black">
+              <img
+                loading="lazy"
+                src="https://cdn.builder.io/api/v1/image/assets/TEMP/34e713fe3d1876499481f1070e4d805bda0a98960ade92a692bec4b390680d69?apiKey=a365ccf4d9914ba4a3de4c73152edf03&"
+                alt=""
+                className="shrink-0 my-auto w-6 aspect-square"
+              />
+              <div className="flex-auto">Quản lý học liệu</div>
+            </div>
+          </a>
+        </li>
+      </ul>
+    </div>
+  </aside>
+  );
+}
+
+
+
+export default SideBar;
+

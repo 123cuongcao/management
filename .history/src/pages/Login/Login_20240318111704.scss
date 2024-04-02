@@ -1,0 +1,1220 @@
+
+.divider {
+	&:after {
+		content: "";
+		flex: 1;
+		height: 1px;
+		background: #eee;
+	}
+	&:before {
+		content: "";
+		flex: 1;
+		height: 1px;
+		background: #eee;
+	}
+}
+/* Left */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 58px;
+
+position: absolute;
+width: 332px;
+height: 589.6px;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+
+/* logo-rikkei2 2 */
+
+width: 200px;
+height: 67.6px;
+
+background: url(logo-rikkei2.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Welcome to RikkeiEdu LMS */
+
+width: 192px;
+height: 70px;
+
+font-family: 'Cabin';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+/* or 117% */
+
+color: #0A033C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* 5790719 1 */
+
+width: 332px;
+height: 336px;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* OBJECTS */
+
+position: absolute;
+left: 98.9%;
+right: -97.02%;
+top: 1.81%;
+bottom: 2.09%;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Group */
+
+position: absolute;
+left: 98.9%;
+right: -97.02%;
+top: 1.81%;
+bottom: 2.09%;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Group */
+
+position: absolute;
+left: 98.9%;
+right: -97.02%;
+top: 1.81%;
+bottom: 2.09%;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 96.77%;
+right: -90.91%;
+top: 87.22%;
+bottom: 7.71%;
+
+background: #D9E0FC;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 98.9%;
+right: -88.06%;
+top: 4.44%;
+bottom: 44.53%;
+
+background: #D9E0FC;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 92.74%;
+right: -79.94%;
+top: 1.81%;
+bottom: 47.54%;
+
+background: #FF6652;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Group */
+
+position: absolute;
+left: 90.06%;
+right: -72.07%;
+top: 45.79%;
+bottom: 49.79%;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 90.06%;
+right: -72.07%;
+top: 47.55%;
+bottom: 51.63%;
+
+background: #BC2228;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 86.84%;
+right: 8.58%;
+top: 45.79%;
+bottom: 49.79%;
+
+background: #BC2228;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 75.42%;
+right: -35.81%;
+top: 3.69%;
+bottom: 33.84%;
+
+background: #FFFFFF;
+border: 0.5px solid #000000;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Group */
+
+position: absolute;
+left: 71.42%;
+right: -22.56%;
+top: 11.68%;
+bottom: 40.33%;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 28.57%;
+right: 63.14%;
+top: 51.61%;
+bottom: 40.33%;
+
+background: #BC2228;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 28.57%;
+right: 63.14%;
+top: 38.39%;
+bottom: 53.55%;
+
+background: #BC2228;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 28.57%;
+right: 63.14%;
+top: 25.17%;
+bottom: 66.78%;
+
+background: #BC2228;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Group */
+
+position: absolute;
+left: 61.33%;
+right: 8.71%;
+top: 26.5%;
+bottom: 68.83%;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 61.33%;
+right: 8.71%;
+top: 26.5%;
+bottom: 73.01%;
+
+background: #969696;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 47.73%;
+right: 35.91%;
+top: 28.49%;
+bottom: 71.12%;
+
+background: #969696;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 60.63%;
+right: 10.11%;
+top: 30.74%;
+bottom: 68.83%;
+
+background: #969696;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Group */
+
+position: absolute;
+left: 58.57%;
+right: 13.81%;
+top: 39.65%;
+bottom: 57.06%;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 50.87%;
+right: 29.19%;
+top: 39.65%;
+bottom: 59.94%;
+
+background: #969696;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 58.57%;
+right: 13.81%;
+top: 42.48%;
+bottom: 57.06%;
+
+background: #969696;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Group */
+
+position: absolute;
+left: 59.65%;
+right: 11.4%;
+top: 53.67%;
+bottom: 41.54%;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 59.65%;
+right: 11.4%;
+top: 53.67%;
+bottom: 45.89%;
+
+background: #969696;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 37.08%;
+right: 56.75%;
+top: 55.67%;
+bottom: 44%;
+
+background: #969696;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 56.98%;
+right: 25.87%;
+top: 55.83%;
+bottom: 43.71%;
+
+background: #969696;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 48.56%;
+right: 34.38%;
+top: 57.99%;
+bottom: 41.54%;
+
+background: #969696;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Group */
+
+position: absolute;
+left: 71.42%;
+right: -21.96%;
+top: 11.68%;
+bottom: 81.84%;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 71.42%;
+right: -21.96%;
+top: 11.68%;
+bottom: 86.4%;
+
+background: #000000;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 60.94%;
+right: -0.64%;
+top: 16.38%;
+bottom: 81.84%;
+
+background: #000000;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Group */
+
+position: absolute;
+left: 87.01%;
+right: -35.25%;
+top: 37.72%;
+bottom: 2.09%;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Group */
+
+position: absolute;
+left: 87.01%;
+right: -35.25%;
+top: 37.72%;
+bottom: 2.09%;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 60.02%;
+right: 21.64%;
+top: 41.28%;
+bottom: 36.72%;
+
+background: #FBC2AA;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 72.37%;
+right: 14.43%;
+top: 43.03%;
+bottom: 38.97%;
+
+background: #FBC2AA;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 78.3%;
+right: -4.36%;
+top: 55.66%;
+bottom: 19.37%;
+
+background: #FF6652;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 62.92%;
+right: 23.37%;
+top: 87.57%;
+bottom: 5.58%;
+
+background: #000000;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 87.01%;
+right: -33.92%;
+top: 73.74%;
+bottom: 7.18%;
+
+background: #BC2228;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 76.43%;
+right: 10.45%;
+top: 79.78%;
+bottom: 14.13%;
+
+border: 0.5px solid #000000;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 69.26%;
+right: 25.82%;
+top: 88.14%;
+bottom: 7.11%;
+
+background: #FBC2AA;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 74.98%;
+right: 16.49%;
+top: 88.53%;
+bottom: 2.09%;
+
+background: #000000;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 79.74%;
+right: 1.65%;
+top: 59.69%;
+bottom: 19.02%;
+
+background: #FBC2AA;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 69.04%;
+right: 21.25%;
+top: 42.3%;
+bottom: 48.35%;
+
+background: #000000;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 66.3%;
+right: 16.28%;
+top: 77.05%;
+bottom: 11.65%;
+
+border: 0.5px solid #000000;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 62.55%;
+right: 35.88%;
+top: 50.12%;
+bottom: 49.05%;
+
+border: 0.5px solid #1C1C1B;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Group */
+
+position: absolute;
+left: 67.43%;
+right: 30.11%;
+top: 47.46%;
+bottom: 50.02%;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 67.43%;
+right: 30.11%;
+top: 47.46%;
+bottom: 50.02%;
+
+background: #FBC2AA;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 66.38%;
+right: 32.66%;
+top: 48.08%;
+bottom: 51.29%;
+
+border: 0.5px solid #1C1C1B;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 79.48%;
+right: 10.81%;
+top: 58.23%;
+bottom: 31.42%;
+
+background: #FF6652;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 51.23%;
+right: 36.29%;
+top: 37.72%;
+bottom: 53.86%;
+
+background: #BC2228;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Group */
+
+position: absolute;
+left: 72.22%;
+right: 5.4%;
+top: 73.03%;
+bottom: 17.75%;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 72.22%;
+right: 8.67%;
+top: 81.3%;
+bottom: 17.75%;
+
+background: #000000;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 69.04%;
+right: 11.74%;
+top: 73.03%;
+bottom: 18.39%;
+
+background: #000000;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 59.76%;
+right: 38.21%;
+top: 76.54%;
+bottom: 21.89%;
+
+border: 0.5px solid #FFFFFF;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 64.6%;
+right: 33.94%;
+top: 52.47%;
+bottom: 46.23%;
+
+background: #000000;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 45.89%;
+right: 51.47%;
+top: 42.25%;
+bottom: 55.38%;
+
+background: #FFFFFF;
+border: 0.5px solid #1C1C1B;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 70.74%;
+right: 27.76%;
+top: 94.34%;
+bottom: 4.42%;
+
+background: #FF6652;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 69.57%;
+right: 29.39%;
+top: 93.37%;
+bottom: 5.62%;
+
+background: #FF6652;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 68.3%;
+right: 30.81%;
+top: 92.53%;
+bottom: 6.5%;
+
+background: #FF6652;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 55.76%;
+right: 43.13%;
+top: 91.9%;
+bottom: 6.84%;
+
+background: #FF6652;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 57.11%;
+right: 41.83%;
+top: 91.4%;
+bottom: 7.24%;
+
+background: #FF6652;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 54.56%;
+right: 44.22%;
+top: 92.44%;
+bottom: 6.27%;
+
+background: #FF6652;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 86.98%;
+right: 10.71%;
+top: 79.66%;
+bottom: 16.54%;
+
+background: #000000;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 42.18%;
+right: 55.82%;
+top: 77.39%;
+bottom: 19%;
+
+background: #000000;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 58.59%;
+right: 40.73%;
+top: 63.84%;
+bottom: 35.36%;
+
+background: #000000;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 72.44%;
+right: 26.08%;
+top: 65.28%;
+bottom: 31.12%;
+
+background: #000000;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Group */
+
+position: absolute;
+left: 32.57%;
+right: 56.12%;
+top: 83.58%;
+bottom: 8.94%;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 32.57%;
+right: 56.12%;
+top: 83.58%;
+bottom: 8.94%;
+
+background: #BC2228;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 27.91%;
+right: 71.38%;
+top: 85.32%;
+bottom: 12.77%;
+
+background: #000000;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 27.17%;
+right: 72.12%;
+top: 88.07%;
+bottom: 10.01%;
+
+background: #000000;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 26.68%;
+right: 73.14%;
+top: 87.33%;
+bottom: 12.18%;
+
+background: #000000;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 78.61%;
+right: 20.44%;
+top: 74.84%;
+bottom: 23.22%;
+
+background: #000000;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 43.95%;
+right: 55.09%;
+top: 59.71%;
+bottom: 39.81%;
+
+background: #000000;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Group */
+
+position: absolute;
+left: 26.36%;
+right: 50.42%;
+top: 57.32%;
+bottom: 8.7%;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Group */
+
+position: absolute;
+left: 26.36%;
+right: 50.42%;
+top: 57.32%;
+bottom: 12.56%;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 26.36%;
+right: 61.33%;
+top: 64.76%;
+bottom: 22.94%;
+
+background: #BC2228;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 16.58%;
+right: 75.2%;
+top: 57.32%;
+bottom: 21.3%;
+
+background: #BC2228;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 7.68%;
+right: 87.79%;
+top: 68.07%;
+bottom: 20.27%;
+
+background: #BC2228;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Group */
+
+position: absolute;
+left: 21.44%;
+right: 69.06%;
+top: 69.18%;
+bottom: 12.56%;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 21.44%;
+right: 69.09%;
+top: 69.18%;
+bottom: 12.86%;
+
+background: #1C1C1B;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 11.97%;
+right: 88.01%;
+top: 87.14%;
+bottom: 12.68%;
+
+background: #1C1C1B;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 11.97%;
+right: 88.01%;
+top: 87.32%;
+bottom: 12.56%;
+
+background: #1C1C1B;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 12.34%;
+right: 80.61%;
+top: 67.63%;
+bottom: 12.72%;
+
+background: #1C1C1B;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Group */
+
+position: absolute;
+left: 15.65%;
+right: 74.66%;
+top: 81.64%;
+bottom: 8.7%;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Group */
+
+position: absolute;
+left: 15.65%;
+right: 74.66%;
+top: 81.64%;
+bottom: 8.7%;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Group */
+
+position: absolute;
+left: 15.65%;
+right: 74.66%;
+top: 81.64%;
+bottom: 8.7%;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Group */
+
+position: absolute;
+left: 15.65%;
+right: 74.66%;
+top: 81.64%;
+bottom: 8.7%;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 15.31%;
+right: 75.84%;
+top: 83.12%;
+bottom: 8.7%;
+
+background: #FF6652;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 15.65%;
+right: 74.66%;
+top: 81.64%;
+bottom: 16.14%;
+
+background: #1A0400;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 14.15%;
+right: 84.78%;
+top: 84.88%;
+bottom: 12.67%;
+
+background: #1C1C1B;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 13.27%;
+right: 86.39%;
+top: 88.16%;
+bottom: 9.73%;
+
+background: #1C1C1B;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 12.72%;
+right: 85.07%;
+top: 90.64%;
+bottom: 9.01%;
+
+background: #1C1C1B;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Group */
+
+position: absolute;
+left: 92.24%;
+right: -83.71%;
+top: 11.22%;
+bottom: 31.09%;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 89.74%;
+right: 6.39%;
+top: 61.21%;
+bottom: 34.7%;
+
+background: #D9E0FC;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 92.24%;
+right: 5.59%;
+top: 65.67%;
+bottom: 31.09%;
+
+background: #D9E0FC;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 9.19%;
+right: 88.36%;
+top: 16.85%;
+bottom: 80.74%;
+
+background: #D9E0FC;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 6.86%;
+right: 89.34%;
+top: 11.22%;
+bottom: 85.09%;
+
+background: #D9E0FC;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 83.83%;
+right: 13.16%;
+top: 21%;
+bottom: 76.05%;
+
+background: #D9E0FC;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 4.25%;
+right: 92.27%;
+top: 22.51%;
+bottom: 73.76%;
+
+background: #D9E0FC;
+transform: matrix(-1, 0, 0, 1, 0, 0);

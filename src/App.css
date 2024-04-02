@@ -1,0 +1,9 @@
+:where(.css-dev-only-do-not-override-djtmh8).ant-modal-confirm .ant-modal-confirm-btns .ant-btn+.ant-btn{
+    border:#3f83f880 solid 1px;
+    color: #3f83f880;
+    font-weight: 600;
+}
+:where(.css-dev-only-do-not-override-djtmh8).ant-modal-confirm .ant-modal-confirm-btns .ant-btn+.ant-btn:hover{
+    color: #fff;
+    border:#3f83f880 solid 1px;
+}

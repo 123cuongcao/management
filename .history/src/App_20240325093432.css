@@ -1,0 +1,8 @@
+:where(.css-dev-only-do-not-override-djtmh8).ant-modal-confirm .ant-modal-confirm-btns .ant-btn+.ant-btn{
+    border:#000 solid 1px;
+    color: #000
+}
+:where(.css-dev-only-do-not-override-djtmh8).ant-modal-confirm .ant-modal-confirm-btns .ant-btn+.ant-btn:hover{
+    color: #3f83f880;
+    border:#3f83f880 solid 1px;
+}
